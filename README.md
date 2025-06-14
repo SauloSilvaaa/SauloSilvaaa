@@ -1,17 +1,13 @@
 <div align="center">
-  <img width="700" height="75%" src="https://i.imgur.com/qvC6SPS.gif">
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&duration=4000&pause=1000&color=f26d28&width=435&lines=Oi;Meu+nome+%C3%A9+Saulo;Tenho+24+anos;Moro+em+Minas;Bem-vindo(a)+ao+meu+perfil+do+github+%F0%9F%98%81" alt="Typing SVG" /></a>
 </div>
 
 <br>
 <br>
 
 <div align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&duration=4000&pause=1000&color=f26d28&width=435&lines=Oi;Meu+nome+%C3%A9+Saulo;Bem-vindo(a)+ao+meu+perfil+do+github+%F0%9F%98%81" alt="Typing SVG" /></a>
+  <img width="700" height="75%" src="https://i.imgur.com/qvC6SPS.gif">
 </div>
-
-##
-
-
 
 <div align="center">
   
@@ -22,13 +18,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Saulosilvaaa&show_icons=true&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=Saulosilvaaa&show_icons=true&theme=calm&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulosilvaaa&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulosilvaaa&layout=compact&font=Iosevka&langs_count=16&theme=calm"
   />
   <br>
   <br>
